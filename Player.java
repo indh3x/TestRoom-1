@@ -1,7 +1,8 @@
 import sum.ereignis.*;
 import sum.werkzeuge.*;
 /**
- * @author 
+ * @author  test faggot lol fajsdpfsafdj
+ * sdfasdfadfasdfadsfasdfa teatststt
  * @version 
  */
 
